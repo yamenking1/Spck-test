@@ -1,0 +1,15 @@
+
+#input-el{
+  border:2px solid #5f9341;
+  width:100%;
+  box-sizing:border-box;
+  padding-bottom:10px;
+}
+button {
+  font-weight:bold;
+  background-color:#5f9341;
+  color:white;
+  border:none;
+  padding:10px;
+  margin-top:5px;
+}
