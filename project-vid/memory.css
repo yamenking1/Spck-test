@@ -1,0 +1,19 @@
+.cell {
+  width:100px;
+  height:100px;
+  border:1px solid;
+  
+}
+#grid {
+  display:grid;
+  grid-template-rows: auto auto;
+  grid-auto-flow: column;
+  
+}
+#container {
+  text-align:center;
+}
+.img-el {
+  width:100px;
+  height:100px;
+}
